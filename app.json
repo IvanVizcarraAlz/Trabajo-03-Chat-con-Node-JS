@@ -1,0 +1,21 @@
+{
+  "name": "Trabajo 03  Chat con Node JS",
+  "description": "mi primer chat con web sockets",
+  "website": "",
+  "repository": "",
+  "success_url": "/",
+  "keywords": [
+    "node",
+    "express",
+    "socket.io",
+    "realtime",
+    "websocket"
+  ],
+  "scripts": {
+  },
+  "addons": [
+  ],
+  "env": {
+    "BUILDPACK_URL": "https://github.com/heroku/heroku-buildpack-nodejs"
+  }
+}
