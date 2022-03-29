@@ -1,8 +1,8 @@
 {
   "name": "Trabajo 03  Chat con Node JS",
   "description": "mi primer chat con web sockets",
-  "website": "",
-  "repository": "",
+  "website": "https://github.com/IvanVizcarraAlz/Trabajo-03-Chat-con-Node-JS",
+  "repository": "https://github.com/IvanVizcarraAlz/Trabajo-03-Chat-con-Node-JS",
   "success_url": "/",
   "keywords": [
     "node",
